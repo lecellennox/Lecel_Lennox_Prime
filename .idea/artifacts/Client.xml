@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Client">
+    <output-path>$PROJECT_DIR$/out/artifacts/client.jar</output-path>
+    <root id="archive" name="Prime.jar">
+      <element id="module-output" name="Prime" />
+    </root>
+  </artifact>
+</component>
